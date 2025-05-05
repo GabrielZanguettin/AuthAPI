@@ -2,6 +2,7 @@
 API Spring Boot + Spring Security
 ---------------------------------
 
+---------------------------------
 Esta API foi desenvolvida com Spring Boot e implementa autenticação e autorização com Spring Security. Ela inclui funcionalidades como:
 
 1. Autenticação com UsernamePasswordAuthenticationToken
